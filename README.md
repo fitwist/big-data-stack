@@ -1,0 +1,1 @@
+Это материалы бесплатного видеокурса TensorFlow. Курс можно посмотреть на [YouTube](https://www.youtube.com/playlist?list=PLfac_zi0WUMxBiCMczdUGMsUCv2-z1MHF&disable_polymer=true).
